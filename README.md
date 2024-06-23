@@ -1,4 +1,4 @@
-Hello there, I'm Rasak 👋
+Hello there, I'm Rasak, a full stack developer with a great deal of experience in front-end and back-end. 👋
 
 You're welcome to my Github page! Below are some facts about my tech stacks:
 
@@ -27,7 +27,7 @@ You're welcome to my Github page! Below are some facts about my tech stacks:
 
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently consolidating my skills in AWS
 - 👯 I’m looking to collaborate on MERN, MEVN, AI, WordPress, and Shopify tasks.
 
 🎉Fun Fact:

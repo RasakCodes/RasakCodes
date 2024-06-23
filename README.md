@@ -1,9 +1,9 @@
-Hello there, I'm Rasak, a full stack developer with a great deal of experience in front-end and back-end. 👋
+Greetings! I'm Rasak, a full stack developer with a great deal of experience in front-end and back-end. 👋
 
 You're welcome to my Github page! Below are some facts about my tech stacks:
 
 ## 🚀 About Me
-- ✍️ I use
+- ✍️ I'm vast in:
     * JavaScript/TypeScript
     * React.js/Next.js/Remix.js
     * Vue.js

@@ -16,7 +16,7 @@ You're welcome to my Github page! Below are some facts about my tech stacks:
     * Sanity.io
 
 ## 🚀Other Stacks
-- ✍️ I use
+- ✍️ I'm also vast in:
     * MongoDB
     * MySQL
     * PostgreSQL
@@ -32,6 +32,4 @@ You're welcome to my Github page! Below are some facts about my tech stacks:
 
 🎉Fun Fact:
 Hobby: Coding, Debugging.
-
-
 

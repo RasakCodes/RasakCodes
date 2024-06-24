@@ -21,6 +21,9 @@ You're welcome to my Github page! Below are some facts about my tech stacks:
     * MySQL
     * PostgreSQL
     * Python
+    * R
+    * Machine learning
+    * JavaScript (for visualization libraries like D3.js)
     * Firebase
     * Redux
     * Gatby&Astro

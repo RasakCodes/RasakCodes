@@ -1,4 +1,4 @@
-Greetings! I'm 𝓡𝓪𝓼𝓪𝓴, a 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a great deal of experience in 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗮𝗻𝗱 𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 coupled with data analytics. 👋
+Greetings👋! I'm 𝓡𝓪𝓼𝓪𝓴, a 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a great deal of experience in 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗮𝗻𝗱 𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 coupled with 𝓭𝓪𝓽𝓪 𝓪𝓷𝓪𝓵𝔂𝓽𝓲𝓬𝓼. 
 
 You're welcome to my Github page! Below are some facts about my tech stacks:
 

@@ -3,7 +3,7 @@ Greetings👋! I'm 𝓡𝓪𝓼𝓪𝓴, a 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸
 You're welcome to my Github page! Below are some facts about my tech stacks:
 
 ## 🚀 About Me
-- ✍️ I'm vast in:
+- ✍️ 𝗜'𝗺 𝘃𝗮𝘀𝘁 𝗶𝗻:
     * JavaScript/TypeScript
     * React.js/Next.js/Remix.js
     * Vue.js
@@ -16,7 +16,7 @@ You're welcome to my Github page! Below are some facts about my tech stacks:
     * Sanity.io
 
 ## 🚀Other Stacks
-- ✍️ I'm also vast in:
+- ✍️ 𝗜'𝗺 𝗮𝗹𝘀𝗼 𝘃𝗮𝘀𝘁 𝗶𝗻:
     * MongoDB
     * MySQL
     * PostgreSQL

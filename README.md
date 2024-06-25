@@ -9,7 +9,7 @@ You're welcome to my Github page! Below are some facts about my tech stacks:
     * Vue.js
     * Node.js (Express)
     * PHP (Laravel)
-    * Tailwind
+    * Tailwind CSS
     * Bootstrap
     * SASS
     * Git
@@ -31,7 +31,7 @@ You're welcome to my Github page! Below are some facts about my tech stacks:
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently consolidating my skills in AWS
-- 👯 I’m looking to collaborate on MERN, MEVN, AI, WordPress, and Shopify tasks.
+- 👯 I’m looking to collaborate on MERN, AI, Data analytics, WordPress, and Shopify tasks.
 
 🎉Fun Fact:
 Hobby: Coding, Debugging.

@@ -30,9 +30,8 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
 
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
-- 🌱 I’m currently consolidating my skills in AWS
+- 🌱 I’m currently consolidating my skills in AWS.
 - 👯 I’m looking to collaborate on MERN, AI, Data analytics, WordPress, and Shopify tasks.
 
 🎉Fun Fact:
-Hobby: Coding, Debugging.
-
+Hobby: Coding and Debugging.

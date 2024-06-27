@@ -3,7 +3,7 @@ Greetings👋! I'm 𝓡𝓪𝓼𝓪𝓴, a 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸
 You're welcome to my Github page! Here's an overview of my tech stacks:
 
 ## 🚀 About Me
-- ✍️ 𝗜'𝗺 𝘃𝗮𝘀𝘁 𝗶𝗻:
+- ✍️ 𝗜'𝗺 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
     * JavaScript/TypeScript
     * React.js/Next.js/Remix.js
     * Vue.js

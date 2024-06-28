@@ -35,6 +35,13 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * <a href="example.com" style="text-decoration: none;">Example Link</a>
     <a href="#" style="text-decoration: none;">Link without bottom border</a>
     
+    ## 🚀PROJECTS
+<h1 style="color: red;">Project</h1>
+- ✍️ Here are some of my projects:
+    * <a href="https://github.com/RasakCodes/DevResumeBuilder.git" style="color: red; text-decoration: none;">DeveloperResumeBuilder</a>: <span>Resume-building website specifically aimed at helping developers create ATS-compliant resumes.</span>
+    * <a href="example.com" style="color: red; text-decoration: none;">Example Link</a>
+    * <a href="#" style="color: red; text-decoration: none;">Link without bottom border</a>
+
 ## 🚀MORE ABOUT ME
 - 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently consolidating my skills in AWS.

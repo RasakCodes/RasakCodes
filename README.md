@@ -27,7 +27,8 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * Firebase
     * Redux
     * Gatby&Astro
-
+## 🚀PROJECTS
+<a>Life</a>
 ## 🚀MORE ABOUT ME
 - 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently consolidating my skills in AWS.

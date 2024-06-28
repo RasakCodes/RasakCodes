@@ -27,8 +27,9 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * Firebase
     * Redux
     * Gatby&Astro
+
 ## 🚀PROJECTS
-  <a href="URL" id="project1">DeveloperResumeBuilder</a>
+  <a href="https://github.com/RasakCodes/DevResumeBuilder.git">DeveloperResumeBuilder</a>
   <p></p>
 
 ## 🚀MORE ABOUT ME

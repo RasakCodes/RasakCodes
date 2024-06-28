@@ -28,7 +28,8 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * Redux
     * Gatby&Astro
 ## 🚀PROJECTS
-  <a href="URL">Lfe in a new world</a>
+  <a href="URL" id="project1">DeveloperResumeBuilder</a>
+  <p></p>
 
 ## 🚀MORE ABOUT ME
 - 🔭 I’m currently working on AI-driven website for a SearchEngineHub

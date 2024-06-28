@@ -30,7 +30,7 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
 
 ## 🚀PROJECTS
 - ✍️ Here are some of my projects:
-    * <a href="https://github.com/RasakCodes/DevResumeBuilder.git">DeveloperResumeBuilder</a> <span>Resume-building website is specifically aimed at helping developers create ATS-compliant resumes.</span>
+    * <a style="text-decoration: none;" href="https://github.com/RasakCodes/DevResumeBuilder.git">: DeveloperResumeBuilder</a> <span>Resume-building website is specifically aimed at helping developers create ATS-compliant resumes.</span>
 
 
 ## 🚀MORE ABOUT ME

@@ -29,7 +29,7 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * Gatby&Astro
 
 ## 🚀PROJECTS
-<h1>Project</h1>
+<h1 style="color: red;">Project</h1>
 - ✍️ Here are some of my projects:
     * <a href="https://github.com/RasakCodes/DevResumeBuilder.git" style="text-decoration: none;"> DeveloperResumeBuilder</a>: <span>Resume-building website is specifically aimed at helping developers create ATS-compliant resumes.</span>
     * <a href="example.com" style="text-decoration: none;">Example Link</a>

@@ -28,15 +28,13 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * Redux
     * Gatby&Astro
 
-## PROJECT LINKS:
--  🔗 SEE ATTACHED
-      [![portfolio](https://img.shields.io/badge/DevResumeWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakCodes/DevResumeBuilder.git)
-      
-      - ## 🔗SOCIAL LINKS
-      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/salaam-rasak-501b69120/
-
-      [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakCodes/DevResumeBuilder.git)
+- PROJECT LINKS:
+    - ## 🔗 SEE ATTACHED
+      [![portfolio](https://img.shields.io/badge/DevResumeWebsitemy_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakCodes/DevResumeBuilder.git)
     
+      - ## 🔗SOCIAL LINKS
+      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salaam-rasak-501b69120/)
+
 ## 🚀MORE ABOUT ME
 - 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently consolidating my skills in AWS.

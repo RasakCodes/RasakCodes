@@ -31,8 +31,10 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
 ## 🚀PROJECTS
 - ✍️ Here are some of my projects:
     * <a href="https://github.com/RasakCodes/DevResumeBuilder.git" style="text-decoration: none;"> DeveloperResumeBuilder</a>: <span>Resume-building website is specifically aimed at helping developers create ATS-compliant resumes.</span>
-    <a href="#" style="text-decoration: none;">Link without bottom border</a>
-    
+    - ## 🔗 Links
+      [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://oslim-portfolio.vercel.app)
+      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 ## 🚀MORE ABOUT ME
 - 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently consolidating my skills in AWS.

@@ -29,17 +29,12 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * Gatby&Astro
 
 ## 🚀PROJECTS
+<h1>Project</h1>
 - ✍️ Here are some of my projects:
     * <a href="https://github.com/RasakCodes/DevResumeBuilder.git" style="text-decoration: none;"> DeveloperResumeBuilder</a>: <span>Resume-building website is specifically aimed at helping developers create ATS-compliant resumes.</span>
-    * <a href="http://example.com" style="color: red;">Example Link</a>
-    <a href="http://example.com" style="color: red;">Example Link</a>
-
+    * <a href="example.com" style="text-decoration: none;">Example Link</a>
     <a href="#" style="text-decoration: none;">Link without bottom border</a>
-    * <a href="#" style="text-decoration: none;">Link without bottom border</a>
- 
-
-
-
+    
 ## 🚀MORE ABOUT ME
 - 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently consolidating my skills in AWS.

@@ -12,7 +12,7 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     * Tailwind CSS
     * Bootstrap
     * SASS
-    * Git
+      
     * Sanity.io
 
 ## 🚀Other Stacks

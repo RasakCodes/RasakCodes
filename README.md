@@ -32,7 +32,7 @@ You're welcome to my Github page! Here's an overview of my tech stacks:
     - ## 🔗 SEE ATTACHED
       [![portfolio](https://img.shields.io/badge/DevResumeWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakCodes/DevResumeBuilder.git)
     
-       [![portfolio](https://img.shields.io/badge/DevResumeWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)] (https://github.com/RasakCodes/Online-Marketplace.git)
+      [![portfolio](https://img.shields.io/badge/AirbnbHub-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakCodes/Online-Marketplace.git)
 
     - ## 🔗 SOCIAL LINKS
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salaam-rasak-501b69120/)
